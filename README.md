@@ -9,12 +9,12 @@ Many large corporations already use 3D graphics to showcase their products. It i
 - Framer Motion - the most popular library used to bring your React website to life with animations
 
 Implemented the following:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Add custom color and file support.
-- Generate and use images through DALLE AI
-- Download the resulting t-shirt model image
-- Ensure responsiveness across all devices and improve your site's performance
+- Developed and implemented 3D modeling and customization features with lighting and camera settings, and object positioning
+- Utilized industry-standard best practices, including Higher Order Components (HOCs), to create scalable and reusable code
+- Implemented custom color and file support for enhanced user experience
+- Integrated DALLE AI to generate and utilize images within the application
+- Enabled downloading of the final t-shirt model image
+- Ensured cross-device responsiveness and optimized site performance for improved user engagement.
 
 Home Page:
 ![Home Page](https://github.com/Rishabhbafna/Metaverse-Product-Showcase/blob/main/Screenshots/HomePage.png)
